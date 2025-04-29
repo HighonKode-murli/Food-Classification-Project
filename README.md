@@ -66,6 +66,6 @@ The model uses **MobileNetV2**, a lightweight convolutional neural network archi
 This project was developed collaboratively by:
 
 - [**Muralidhar Chowdary**](https://github.com/HighonKode-murli)  
-- [**[Rajat Mishra]**](https://github.com/rajat-mish)  
+- [**Rajat Mishra**](https://github.com/rajat-mish)  
 
 ---
